@@ -1,0 +1,3 @@
+i3sec.com.au:53 {
+  # Minimal domain stanza; real A records live in hosts.override
+}

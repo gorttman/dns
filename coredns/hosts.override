@@ -1,0 +1,3 @@
+# Replace with your actual node IPs that run PXE/NFS via hostNetwork
+pxe.i3sec.com.au  A  192.168.1.10
+nfs.i3sec.com.au  A  192.168.1.10
